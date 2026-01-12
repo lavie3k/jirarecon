@@ -1,0 +1,9 @@
+certifi
+chardet
+idna
+requests
+textwrap3
+truffleHogRegexes
+urllib3
+rich
+jira2markdown
